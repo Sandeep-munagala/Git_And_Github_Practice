@@ -19,7 +19,7 @@ git commit -m "updated"
 git push -u origin
 
 # 6. To create a branch 
-git branch folder/branch1
+git checkout -B branch_name
 
 # 7. To check the status of the file
 git status
